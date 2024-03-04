@@ -3,6 +3,8 @@ from tkinter import simpledialog, messagebox
 from matplotlib import pyplot as plt
 from matplotlib_venn import venn2, venn3
 
+
+
 titulo="Diagrama de venn"
 # Función para mostrar diagrama de Venn para dos conjuntos
 def mostrar_diagrama_venn(*args):
