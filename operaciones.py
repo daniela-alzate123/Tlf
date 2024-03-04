@@ -6,7 +6,7 @@ from matplotlib_venn import venn2, venn3
 
 
 titulo="Diagrama de venn"
-# Función para mostrar diagrama de Venn para dos conjuntos
+# Función para mostrar diagrama de Venn para dos o más conjuntos
 def mostrar_diagrama_venn(*args):
     
     plt.figure(figsize=(8, 6))
